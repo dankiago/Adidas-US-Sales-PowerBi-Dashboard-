@@ -46,6 +46,9 @@ Adidas dataset contains 9649 rows and 13 variables. The time period of the datas
 5. Which is the bst selling product?
 
 
+<img width="1590" height="896" alt="adidas sales dashboard" src="https://github.com/user-attachments/assets/447be624-432e-4cb1-869e-62dee35a8f25" />
+
+
 ## Key Insights:
 
 1. Oklahoma state has the highest sales
